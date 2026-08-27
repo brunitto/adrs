@@ -1,0 +1,17 @@
+# ADRS
+
+> TODO.
+
+## O Que É
+
+Decisões de arquitetura e tecnologia que uso em meus projetos pessoais. Estas decisões são baseadas na minha experiência pessoal.
+
+## Por Que É Importante
+
+Registrar as decisões de arquitetura e tecnologia é importante para a velocidade e desenvolvimento de software.
+
+## Como Funciona
+
+Leia a ADR [ADRs](adrs.md) para mais informações e um modelo para criar outras ADRs.
+
+Estas ADRs foram inspiradas pelo artigo [Documenting Architecture Decisions](https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions).
