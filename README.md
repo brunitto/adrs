@@ -8,7 +8,7 @@ Decisões de arquitetura e tecnologia que uso em meus projetos pessoais. Estas d
 
 ## Por Que É Importante
 
-Registrar as decisões de arquitetura e tecnologia é importante para a velocidade e desenvolvimento de software.
+Registrar as decisões de arquitetura e tecnologia é importante para a velocidade e desenvolvimento de software. As ADRs evitam que as pessoas e agentes de IA temem ou ignorem as decisões sem contexto.
 
 ## Como Funciona
 
