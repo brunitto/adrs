@@ -1,6 +1,6 @@
 # ADRS
 
-> TODO.
+> Um bom alinhamento habilita uma boa execução.
 
 ## O Que É
 
