@@ -5,7 +5,7 @@
 ## Índice
 
 - [ADRs](./adrs.md).
-- [Monorepo](./monorepo.md)
+- [Monorepo](./monorepo.md).
 
 ## O Que É
 
