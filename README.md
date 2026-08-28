@@ -2,6 +2,11 @@
 
 > Um bom alinhamento habilita uma boa execução.
 
+## Índice
+
+- [ADRs](./adrs.md).
+- [Monorepo](./monorepo.md)
+
 ## O Que É
 
 Decisões de arquitetura e tecnologia que uso em meus projetos pessoais. Estas decisões são baseadas na minha experiência pessoal.
