@@ -18,7 +18,7 @@
   - Alta qualidade de desenvolvimento, incluindo testes E2E, SSR e otimização de imagens.
 - Contras:
   - Baixa performance de processamento (Node, Playwright) e armazenamento (npm, Astro).
-  - Limitado para páginas e APIs, excluindo processamento assíncrono com maior volume de dados e latência.
+  - Limitado para sites, excluindo API e/ou banco de dados.
 
 ## Implementação
 
