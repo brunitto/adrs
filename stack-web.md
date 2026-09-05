@@ -28,6 +28,6 @@ Tecnologias:
 - Usar Node como runtime.
 - Usar npm como gerenciador de dependências, pacotes e scripts.
 - Usar Playwright como ferramenta de testes E2E.
-- Usar Next.js como framework web full-stack.
+- Usar Next.js como framework de desenvolvimento.
 - Usar Prisma como ORM e ferramenta de migrations.
 - Usar Tailwind como ferramenta de CSS.
