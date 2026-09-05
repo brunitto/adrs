@@ -8,7 +8,7 @@
 
 ## Decisão
 
-Usar ADRs para registrar decisões de arquitetura e tecnologia importantes para os projetos e sistemas de software.
+- Usar ADRs para registrar decisões de arquitetura e tecnologia importantes para os projetos e sistemas de software.
 
 ## Consequências
 
