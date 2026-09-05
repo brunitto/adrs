@@ -9,7 +9,7 @@
 
 ## Decisão
 
-Usar apenas um repositório (monorepo) para sistemas de software, para reduzir a complexidade de dependências e mudanças do sistema.
+- Usar apenas um repositório (monorepo) para sistemas de software, para reduzir a complexidade de dependências e mudanças do sistema.
 
 ## Consequências
 
