@@ -33,27 +33,30 @@ Exemplo de monorepo:
 
 ```plaintext
 monorepo/
-  apps/              # Aplicações.
+  apps/
     api/
     web/
     worker/
-  config/            # Configurações.
+  config/
     .env.example
     .env.development
     .env.test
-  docs/              # Documentação.
+  docs/
     adrs/
     handbook/
     system/
-  infra/            # Infraestrutura.
+  infra/
     cache/
     database/
     stream/
-  libs/             # Bibliotecas.
+  libs/
     core/
     security/
     observability/
-  specs/            # Especificações.
+  specs/
+    changes/
+    DESIGN.md
+    openapi.yaml
   README.md
   LICENSE
   ...
