@@ -9,7 +9,7 @@
 
 ## Decisão
 
-Usar uma stack completa, priorizando velocidade e qualidade sobre performance e suporte à processamento assíncrono.
+- Usar uma stack completa, priorizando velocidade e qualidade sobre performance e suporte à processamento assíncrono.
 
 ## Consequências
 
