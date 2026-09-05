@@ -6,8 +6,7 @@ TODO.
 
 ## Decisão
 
-- Usar containers de desenvolvimento para um ambiente mais simples de configurar e replicar.
-- Usar variáveis de ambiente para qualquer configuração.
+- Usar um ambiente de desenvolvimento simples de configurar e replicar.
 
 ## Consequências
 
@@ -17,5 +16,8 @@ TODO.
 
 - Usar [Dev Containers](https://containers.dev) para configurar e provisionar ambientes de desenvolvimento com containers.
 - Usar [Docker](https://docker.com) como runtime e gerenciador de imagens e containers.
+- Usar um container chamado "workspace" para todas as aplicações e bibliotecas.
+- Usar containers separados para os serviços e ferramentas.
 - Usar a extensão do VS Code ou a CLI do Dev Containers.
-- Usar [dotenv](https://www.dotenv.org/) para definir e exportar variáveis de ambiente a partir de arquivos.
+- Usar variáveis de ambiente para qualquer configuração, evitar configurações manuais e arquivos de configuração.
+- Usar [dotenv](https://www.dotenv.org/) para definir e exportar variáveis de ambiente.
