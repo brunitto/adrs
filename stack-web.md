@@ -17,13 +17,14 @@
   - Alta velocidade de desenvolvimento, incluindo servidor de desenvolvimento, rotas baseadas em sistema de arquivos, e gerenciamento de banco de dados.
   - Alta qualidade de desenvolvimento, incluindo testes E2E, SSR e otimização de imagens.
 - Contras:
-  - Baixa performance, alto custo de processamento (Node, Playwright) e armazenamento (npm, Next.js).
-  - Limitado para páginas e APIs, excluindo processamento assíncrono com maior volume de dados e latência.
+  - Baixa performance de processamento (Node, Playwright) e armazenamento (npm, Next.js).
+  - Limitado para aplicações web e APIs, excluindo processamento assíncrono com maior volume de dados e latência.
 
 ## Implementação
 
 Tecnologias:
 
+- Usar TypeScript como linguagem de programação.
 - Usar Node como runtime.
 - Usar npm como gerenciador de dependências, pacotes e scripts.
 - Usar Playwright como ferramenta de testes E2E.
