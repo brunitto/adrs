@@ -17,7 +17,7 @@
   - Alta velocidade de desenvolvimento, incluindo servidor de desenvolvimento, rotas baseadas em sistema de arquivos, renderização de Markdown.
   - Alta qualidade de desenvolvimento, incluindo testes E2E, SSR e otimização de imagens.
 - Contras:
-  - Baixa performance de processamento (Node, Playwright) e armazenamento (npm, Astro).
+  - Baixa performance de processamento (Node, Playwright) e armazenamento (pnpm, Astro).
   - Limitado para sites, excluindo API e/ou banco de dados.
 
 ## Implementação
@@ -26,7 +26,7 @@ Tecnologias:
 
 - Usar TypeScript como linguagem de programação.
 - Usar Node como runtime.
-- Usar npm como gerenciador de dependências, pacotes e scripts.
+- Usar pnpm como gerenciador de dependências, pacotes e scripts.
 - Usar Playwright como ferramenta de testes E2E.
 - Usar Astro como framework de desenvolvimento.
 - Usar Tailwind como ferramenta de CSS.
