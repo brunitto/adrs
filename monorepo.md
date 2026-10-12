@@ -43,8 +43,10 @@ monorepo/
     .env.test
   docs/
     adrs/
+    architecture/
     handbook/
     system/
+    story-map.json
   infra/
     cache/
     database/
@@ -53,6 +55,10 @@ monorepo/
     core/
     security/
     observability/
+  scripts/
+    start-env.ts
+    start-app.ts
+    backup-database.ts
   specs/
     changes/
     DESIGN.md
