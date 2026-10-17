@@ -1,4 +1,4 @@
-# SERVICE QUEUE
+# STACK QUEUE
 
 ## Contexto
 
