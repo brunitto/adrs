@@ -1,4 +1,4 @@
-# SERVICE DATABASE
+# STACK DATABASE
 
 ## Contexto
 
